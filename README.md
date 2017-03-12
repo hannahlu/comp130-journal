@@ -24,9 +24,9 @@ Computer science education, Stroustrup argues, needs a standardised structure wi
 
 Quake [4] is one of the first FPS mainstream games to be adapted to suit the visually impaired, in the form of AudioQuake,  which uses an auditory interface [5]. The creators were keen to not only enable basic game play, but ensure blind users could participate online and in the building of their own level maps.
 
-To adapt Quake into an accessible game for the visually impaired, involved several stages of development, beginning with the low-level requirments necessary to implement an auditory interface. Audio needed to be improved to create more relastic cues for the visually impaired, such as indicating room size through the use of echos. 
+Adapting Quake into an accessible game for the visually impaired involved several stages of development, beginning with the low-level requirments necessary to implement an auditory interface. Audio needed to be improved to create more relastic cues for the visually impaired, such as indicating room size through the use of echos. 
 
-AudioQuake is part of the AGRIP project [6] which has created a free softwafre development model using LDL (Level Description Language), an XML programming language designed specfically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
+AudioQuake is part of the AGRIP project [6] which aims for games, not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. AudioQuake was built with LDL (Level Description Language), an XML programming language designed specfically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
 
 ### References
 
@@ -38,6 +38,8 @@ AudioQuake is part of the AGRIP project [6] which has created a free softwafre d
 
 [4] id Software/GT Interactive
 
-[5] _"Making the Mainstream Accessible; Redefining the Game." _
+[5] Atkinson, M.T. et al, 2006. _"Making the mainstream accessible: redefining the game."_ IN: Proceedings, Sandbox Symposium 2006, ACM SIGGRAPH Symposium on Videogames, Boston, Massachusetts, July 30-31, pp. 21-28
 
 [6] AGRIP Project
+
+[7]	Atkinson, M.T. and MACHIN, C.H.C., 2009. _"Proof-of-concept 3D level creation tool for blind gamers."_ California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
