@@ -36,10 +36,10 @@ _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only pla
 
 [3]Stroustrup, B. (2010). _"What should we teach new software developers? Why?"_, Communications of the ACM, 53(1), 40.
 
-[4] iD Software 1996, _Quake_, video game, Linux, GT Interactive, New York. 
+[4] id Software 1996, _Quake_, video game, Linux, GT Interactive, New York. 
 
 [5] Atkinson, M.T. et al, 2006. _"Making the mainstream accessible: redefining the game."_ IN: Proceedings, Sandbox Symposium 2006, ACM SIGGRAPH Symposium on Videogames, Boston, Massachusetts, July 30-31, pp. 21-28
 
-[6] AGRIP Project
+[6] Atkinson, M.T. and Gucukoglu, S. (2003 - 2012). “AGRIP Project”. AGRIP Project [Online]. Available: http://agrip.org.uk. [Accessed: March, 12, 2017].
 
 [7]	Atkinson, M.T. and MACHIN, C.H.C., 2009. _"Proof-of-concept 3D level creation tool for blind gamers."_ California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
