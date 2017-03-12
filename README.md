@@ -19,6 +19,15 @@ Stroustrup suggests students tend to struggle with connecting topics covered in 
 
 Computer science education, Stroustrup argues, needs a standardised structure with a clearer definition of what an individual needs in order to earn the title of Computer Scientists. Perhaps one day leading to licensing of Computer Science professionals. In order to do so, professionals should not purely posses a generalised understanding of computer science, but have obtained a specialism within the field.[3]
 
+## Making the Mainstream Accessible: Redefining the Game. 
+### Case Study: AudioQuake.
+
+Quake [4] is one of the first FPS mainstream games to be adapted to suit the visually impaired, in the form of AudioQuake,  which uses an auditory interface [5]. The creators were keen to not only enable basic game play, but ensure blind users could participate online and in the building of their own level maps.
+
+To adapt Quake into an accessible game for the visually impaired, involved several stages of development, beginning with the low-level requirments necessary to implement an auditory interface. Audio needed to be improved to create more relastic cues for the visually impaired, such as indicating room size through the use of echos. 
+
+AudioQuake is part of the AGRIP project [6] which has created a free softwafre development model using LDL (Level Description Language), an XML programming language designed specfically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
+
 ### References
 
 [1] M. Tufano; F. Palomba; G. Bavota; R. Oliveto; M. Di Penta; A. De Lucia; D. Poshyvanyk, "When and Why Your Code Starts to Smell Bad (and Whether the Smells Go Away)," in IEEE Transactions on Software Engineering , vol.PP, no.99, pp.1-1
@@ -26,3 +35,9 @@ Computer science education, Stroustrup argues, needs a standardised structure wi
 [2] Ward Cunningham. 1992. "The WyCash portfolio management system. In Addendum to the proceedings on Object-oriented programming systems, languages, and applications" (Addendum) (OOPSLA '92), Jerry L. Archibald and Mark C. Wilkes (Eds.). ACM, New York, NY, USA, 29-30.
 
 [3]Stroustrup, B. (2010). _"What should we teach new software developers? Why?"_, Communications of the ACM, 53(1), 40.
+
+[4] id Software/GT Interactive
+
+[5] _"Making the Mainstream Accessible; Redefining the Game." _
+
+[6] AGRIP Project
