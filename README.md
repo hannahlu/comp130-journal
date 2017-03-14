@@ -1,7 +1,7 @@
 # comp130-journal
 Base repository for COMP130 research journal
 
-# When and Why Your Code Starts to Smell Bad.
+## When and Why Your Code Starts to Smell Bad.
 
 Technical Debt: "not quite right code which we postpone making it right." [2]
 
@@ -28,9 +28,9 @@ Adapting _Quake_ into an accessible game for the visually impaired involved seve
 
 _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. _AudioQuake_ was built with LDL (Level Description Language), an XML programming language designed specfically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
 
-### AccTrace: Accessibility in Phases of Requirements Engineering, Design and Coding Software
+## AccTrace: Accessibility in Phases of Requirements Engineering, Design and Coding Software
 
-Although considerable research and proposals for improving Software Engineering for accessibility, developers rarely understand how to code accessible systems. AccTrace is a Case Tool designed to use an onotology (a method for showing a group of concepts and the relationships between them), in this case , to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design.
+Although considerable research and proposals for improving Software Engineering for accessibility exsist, developers rarely understand how to code accessible systems. AccTrace [8] is a Case Tool designed to use an onotology (a method for showing a group of concepts and the relationships between them), in this case , to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design. [8]
 
 ### References
 
@@ -47,3 +47,5 @@ Although considerable research and proposals for improving Software Engineering 
 [6] Atkinson, M.T. and Gucukoglu, S. (2003 - 2012). “AGRIP Project”. AGRIP Project [Online]. Available: http://agrip.org.uk. [Accessed: March, 12, 2017].
 
 [7]	Atkinson, M.T. and MACHIN, C.H.C., 2009. _"Proof-of-concept 3D level creation tool for blind gamers."_ California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
+
+[8] R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
