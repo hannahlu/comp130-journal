@@ -28,6 +28,10 @@ Adapting _Quake_ into an accessible game for the visually impaired involved seve
 
 _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only playable by the disabled, but that enables them to play evenly matched with or against able-bodied players, create their own map levels and adjust game settings. _AudioQuake_ was built with LDL (Level Description Language), an XML programming language designed specfically to enable developers to describe 3D spaces and for visually impaired players to be able to create 3D levels.
 
+### AccTrace: Accessibility in Phases of Requirements Engineering, Design and Coding Software
+
+Although considerable research and proposals for improving Software Engineering for accessibility, developers rarely understand how to code accessible systems. AccTrace is a Case Tool designed to use an onotology (a method for showing a group of concepts and the relationships between them), in this case , to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design.
+
 ### References
 
 [1] M. Tufano; F. Palomba; G. Bavota; R. Oliveto; M. Di Penta; A. De Lucia; D. Poshyvanyk, "When and Why Your Code Starts to Smell Bad (and Whether the Smells Go Away)," in IEEE Transactions on Software Engineering , vol.PP, no.99, pp.1-1
