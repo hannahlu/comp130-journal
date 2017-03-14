@@ -32,7 +32,11 @@ _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only pla
 
 Although considerable research and proposals for improving Software Engineering for accessibility exsist, developers rarely understand how to code accessible systems. AccTrace [8] is a Case Tool designed to use an onotology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design. [8]
 
-##### Onotology, Traceability, Accessibility as Standard in Game Design, Software Engineering in education
+### Onotology
+
+### Traceability
+
+### Accessibility as Standard in Game Design, Software Engineering in education
 
 ### References
 
