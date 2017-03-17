@@ -39,6 +39,8 @@ Software engineering for accessibility, should include an adaptive interface, wh
 _"Diversity is an important source of robustness in Biological systems; Computers by contrast are notable for their lack of diversity."_
 In adapting games for accessibilty adapating mainstream games soley for the visually impaired will not produce a diverse software, engineering for accessibilty should endevour to accomodate for a diverse range of users. Implementing a multimodal interface, accomodating for all sensory inputs feasiable, will cater for a wide-range of disabilities. [9]
 
+_"establish need for system, create personas, scope and feasibility, clearly definined system requirements and anaylsis, aquire identified technologies, design system architecture model, design system componenets, implement system, test and deploy system, evalute system (consult experts in field at each stage)"_ [9]
+
 ### Onotology
 
 ### Traceability
