@@ -34,7 +34,10 @@ Although considerable research and proposals for improving Software Engineering 
 
 ### Disability-aware software engineering for improved system accessibility and usability
 
-Software engineering for accessibility, should include an adaptive interface, which can be modified to suit indiviudal need, adaptations may be changing colours and font size or audio support. In addition, specialised hardware (braille boards) and software (screen readers) may also be beneficial. As standard, the need for an expert on engineering software for accessibitly is very much stressed in literature on disability-aware software. Of equal importance is the inclusion of user testing by those with visual impairments, their contiuned involvement during the entirity of software development is vital, especially with the current lack of standardised accessibilty requirments for video games. [9]
+Software engineering for accessibility, should include an adaptive interface, which can be modified to suit indiviudal need, adaptations may be changing colours and font size or audio support. In addition, specialised hardware (braille boards) and software (screen readers) may also be beneficial. As standard, the need for an expert on engineering software for accessibitly is very much stressed in literature on disability-aware software. Of equal importance is the inclusion of user testing by those with visual impairments, their contiuned involvement during the entirity of software development is vital, especially with the current lack of standardised accessibilty requirments for video games.
+
+_"Diversity is an important source of robustness in Biological systems; Computers by contrast are notable for their lack of diversity."_
+In adapting games for accessibilty adapating mainstream games soley for the visually impaired will not produce a diverse software, engineering for accessibilty should endevour to accomodate for a diverse range of users. Implementing a multimodal interface, accomodating for all sensory inputs feasiable, will cater for a wide-range of disabilities. [9]
 
 ### Onotology
 
