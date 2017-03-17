@@ -32,7 +32,7 @@ _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only pla
 
 Although considerable research and proposals for improving Software Engineering for accessibility exsist, developers rarely understand how to code accessible systems. AccTrace [8] is a Case Tool designed to use an onotology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design. [8]
 
-### 
+### Disability-aware software engineering for improved system accessibility and usability
 "
 1. Heterogeneous user characteristics: In addition to considering people without disability, the software design method should accommodate to a great extent the variety of known disabilities.
 2. Adaptive and personalised interface: The interface provides the platform of interaction between the user and the software. Therefore, the inability to use a particular software product may lie in its interface support. It is imperative that the interface adapts to specific user needs; for instance colours and font sizes for people with visual impairment, it should also be able to provide audio support for blind people, and also appropriate symbols, signs or icons for people with reading problem. Users should also be able to personalise such interface supports.
