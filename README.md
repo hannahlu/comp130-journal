@@ -43,6 +43,8 @@ In adapting games for accessibilty adapating mainstream games soley for the visu
 
 ### Traceability
 
+### User Personas
+
 ### Accessibility as Standard in Game Design, Software Engineering in education
 
 ### References
