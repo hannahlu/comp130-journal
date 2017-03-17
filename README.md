@@ -32,6 +32,15 @@ _AudioQuake_ is part of the AGRIP project [6] which aims for games, not only pla
 
 Although considerable research and proposals for improving Software Engineering for accessibility exsist, developers rarely understand how to code accessible systems. AccTrace [8] is a Case Tool designed to use an onotology, a method for showing a group of concepts and the relationships between them, to propose and define a technical procedure for implementing accessible gaming. AccTrace was also designed to enable tracebility, enabling developers to acertain the origin of certain elements within a systems design. [8]
 
+### 
+"
+1. Heterogeneous user characteristics: In addition to considering people without disability, the software design method should accommodate to a great extent the variety of known disabilities.
+2. Adaptive and personalised interface: The interface provides the platform of interaction between the user and the software. Therefore, the inability to use a particular software product may lie in its interface support. It is imperative that the interface adapts to specific user needs; for instance colours and font sizes for people with visual impairment, it should also be able to provide audio support for blind people, and also appropriate symbols, signs or icons for people with reading problem. Users should also be able to personalise such interface supports.
+3. Support for accessibility using assistive components: For certain user groups with special needs, the accessibility of the adaptive and personalised interface may require additional components (hardware, software, or both). For instance text to speech, screen readers, specialised keyboards and mice, etc.
+4. Involvement of an expert on disability issues: It is vital to involve an expert on disability issues, especially during feasibility and requirement phases of the software development life-cycle. This ensures that disability requirements are appropriately captured should the project be feasible
+5. Involve target user group in the testing phase: This implies engaging people with identified disability in the testing of the software product. This ensures that the right software product is being developed. Generally, people with disabilities should be included in the decision making process and not only during the testing phase." [9]
+
+
 ### Onotology
 
 ### Traceability
@@ -55,3 +64,5 @@ Although considerable research and proposals for improving Software Engineering 
 [7]	Atkinson, M.T. and MACHIN, C.H.C., 2009. _"Proof-of-concept 3D level creation tool for blind gamers."_ California State University, Northridge Center on Disabilities' 24th Annual International Technology and Persons with Disabilities Conference (CSUN 2009), 16-21 March, Los Angeles, CA
 
 [8] R. G. De Branco, M. I. Cagnin, and D. M. B. Paiva, “AccTrace: Accessibility in phases of requirements engineering, design, and coding software,” in Proceedings - 14th International Conference on Computational Science and Its Applications, ICCSA 2014, 2014, pp. 225–228.
+
+[9] J. T. Nganji and S. H. Nggada, “Disability-aware software engineering for improved system accessibility and usability,” Int. J. Softw. Eng. its Appl., 2011.
